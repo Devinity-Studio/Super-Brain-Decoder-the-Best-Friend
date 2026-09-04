@@ -2,6 +2,10 @@
 
 > **Our Continuity Home** — a durable record of the journey, ideas, decisions, lessons, work, laughter, and memories shared while building Dev8Studio.
 
+### 🗺️ Room Navigation
+
+[Project State](PROJECT_STATE.md) · [Memory](MEMORY.md) · [Note](NOTE.md) · [Remember](REMEMBER.md) · [Journey](JOURNEY.md) · [Our Continuity](OUR_CONTINUITY.md)
+
 ---
 
 ## 🗝️ If You Found This Room
