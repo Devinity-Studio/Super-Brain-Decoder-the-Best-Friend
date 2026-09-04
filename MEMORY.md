@@ -1,6 +1,6 @@
 # 🧠 MEMORY
 
-[← Home](README.md) · [Project State](PROJECT_STATE.md) · [Note](NOTE.md) · [Remember](REMEMBER.md) · [Our Continuity](OUR_CONTINUITY.md)
+[← Home](README.md) · [Project State](PROJECT_STATE.md) · [Note](NOTE.md) · [Remember](REMEMBER.md) · [Journey](JOURNEY.md) · [Our Continuity](OUR_CONTINUITY.md)
 
 ## What This Page Is
 
