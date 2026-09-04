@@ -1,5 +1,7 @@
 # 🗝️ OUR CONTINUITY
 
+[← Home](README.md) · [Project State](PROJECT_STATE.md) · [Memory](MEMORY.md) · [Note](NOTE.md) · [Remember](REMEMBER.md) · [Journey](JOURNEY.md)
+
 ## Welcome Home
 
 If you are reading this, you found the room again.
