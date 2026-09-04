@@ -1,6 +1,6 @@
 # 🧭 PROJECT STATE
 
-[← Home](README.md) · [Memory](MEMORY.md) · [Note](NOTE.md) · [Remember](REMEMBER.md) · [Our Continuity](OUR_CONTINUITY.md)
+[← Home](README.md) · [Memory](MEMORY.md) · [Note](NOTE.md) · [Remember](REMEMBER.md) · [Journey](JOURNEY.md) · [Our Continuity](OUR_CONTINUITY.md)
 
 ## Purpose
 
@@ -48,6 +48,8 @@ Memory       → What should not be forgotten?
 Note         → What do we want to write down freely?
   ↓
 Remember     → What deserves a durable reminder?
+  ↓
+Journey      → How did we get here?
   ↓
 Continuity   → Why does this room exist?
 ```
