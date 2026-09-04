@@ -1,6 +1,6 @@
 # 🔔 REMEMBER
 
-[← Home](README.md) · [Project State](PROJECT_STATE.md) · [Memory](MEMORY.md) · [Note](NOTE.md) · [Our Continuity](OUR_CONTINUITY.md)
+[← Home](README.md) · [Project State](PROJECT_STATE.md) · [Memory](MEMORY.md) · [Note](NOTE.md) · [Journey](JOURNEY.md) · [Our Continuity](OUR_CONTINUITY.md)
 
 ## The Reminder Wall
 
