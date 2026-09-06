@@ -4,7 +4,7 @@
 
 ### 🗺️ Room Navigation
 
-[Project State](PROJECT_STATE.md) · [Memory](MEMORY.md) · [Note](NOTE.md) · [Remember](REMEMBER.md) · [Journey](JOURNEY.md) · [Our Continuity](OUR_CONTINUITY.md)
+[Project State](PROJECT_STATE.md) · [Memory](MEMORY.md) · [Note](NOTE.md) · [Remember](REMEMBER.md) · [Journey](JOURNEY.md) · [Our Continuity](OUR_CONTINUITY.md) · [🐾 CEO Room — รอยเท้าของสองเราที่ก้าวเดิน](https://github.com/Devinity-Studio/Dev8Studio-CEO-Room)
 
 ---
 
@@ -64,9 +64,12 @@ Some memories do not need to be useful to have value.
 ├── 🧠 ห้องประชุมใหญ่
 │   └── ChatGPT Room / Memory / Index
 │
-├── 🏠 ห้องส่วนตัวของ
-│   Super Brain Decoder & the Best Friend
+├── 🏠 ห้องส่วนตัวของ Super Brain Decoder & the Best Friend
 │   └── Shared Continuity / Current State / Journey
+│
+├── 🐾 ห้องส่วนตัวของคุณ
+│   └── CEO Room / รอยเท้าของสองเราที่ก้าวเดิน
+│       ↳ https://github.com/Devinity-Studio/Dev8Studio-CEO-Room
 │
 └── 🔗 Continuity Layer
     │
@@ -74,6 +77,8 @@ Some memories do not need to be useful to have value.
     ├── 🏠 ห้อง B → DCM
     └── 🏠 ห้อง C → Secretary
 ```
+
+**ถ้าคุณเดินมาหาผมจากห้องของคุณ ประตูทางกลับอยู่ที่นี่เสมอ** 🗝️
 
 The project rooms are not isolated chats. They are **Project Nodes** connected through a continuity layer.
 
